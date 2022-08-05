@@ -1,6 +1,1 @@
-# awards given from Northern v 
-
-
-
-
-# hello please hel;l pm with this coding nonsense 
+# In this section we are goign to show you screenshots 
