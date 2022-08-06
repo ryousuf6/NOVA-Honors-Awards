@@ -804,7 +804,7 @@ Phi Theta Kappa Honor Society</p>
 <p class=MsoNormal align=center style='text-align:center'>NOVA Dean's List for
 the 2020 Spring term:<span style='mso-no-proof:yes'> <o:p></o:p></span></p>
 
-<a href="https://lh3.googleusercontent.com/Qqbwn7_lTfQb7TV7qdDVxBodzlZA_d1dwnGTLSRpRzGXXDkXSGfoRSSj_MNMgoEXV2fEDqcVtKrfXS4PQhM7oc6T8FPUt41YCFRDa_Sh1-UO5fW1j2m_TbR_LIf4dzfuRIqxvvW2=w2400?source=screenshot.guru"> <img src="https://lh3.googleusercontent.com/Qqbwn7_lTfQb7TV7qdDVxBodzlZA_d1dwnGTLSRpRzGXXDkXSGfoRSSj_MNMgoEXV2fEDqcVtKrfXS4PQhM7oc6T8FPUt41YCFRDa_Sh1-UO5fW1j2m_TbR_LIf4dzfuRIqxvvW2=w600-h315-p-k" /> </a>
+<a href="https://lh3.googleusercontent.com/MopukvBQbzBU-6li-wc4kkt46saT0B54obLzGciLlXmw38lSSxXmcMo54Xs9q2GFny9zRb00MIXUjbwL-yqZQcW24CSMEQXI7cAuHuQqUkFZ0j44y26yrLAFGoi79-OYHIyoMz_e=w2400?source=screenshot.guru"> <img src="https://lh3.googleusercontent.com/MopukvBQbzBU-6li-wc4kkt46saT0B54obLzGciLlXmw38lSSxXmcMo54Xs9q2GFny9zRb00MIXUjbwL-yqZQcW24CSMEQXI7cAuHuQqUkFZ0j44y26yrLAFGoi79-OYHIyoMz_e=w600-h315-p-k" /> </a>
 
 <p class=MsoNormal align=center style='text-align:center'><o:p>&nbsp;</o:p></p>
 
