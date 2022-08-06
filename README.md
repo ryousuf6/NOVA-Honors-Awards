@@ -804,7 +804,7 @@ Phi Theta Kappa Honor Society</p>
 <p class=MsoNormal align=center style='text-align:center'>NOVA Dean's List for
 the 2020 Spring term:<span style='mso-no-proof:yes'> <o:p></o:p></span></p>
 
-<input type="NOVA Dean's List for the 2020 Spring term.">
+<input type="C:\Users\Ramiro\Desktop\GMU\Cybersecurity\Résumé - Coverletter">
 
 <p class=MsoNormal align=center style='text-align:center'><o:p>&nbsp;</o:p></p>
 
