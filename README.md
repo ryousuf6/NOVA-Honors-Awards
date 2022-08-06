@@ -804,15 +804,7 @@ Phi Theta Kappa Honor Society</p>
 <p class=MsoNormal align=center style='text-align:center'>NOVA Dean's List for
 the 2020 Spring term:<span style='mso-no-proof:yes'> <o:p></o:p></span></p>
 
-<html>
-   <head>
-      <title>HTML img Tag</title>
-   </head>
-
-   <body>
-      <img alt = NOVA Dean's List for the 2020 Spring term.>
-   </body>
-</html>
+<a href="https://lh3.googleusercontent.com/Qqbwn7_lTfQb7TV7qdDVxBodzlZA_d1dwnGTLSRpRzGXXDkXSGfoRSSj_MNMgoEXV2fEDqcVtKrfXS4PQhM7oc6T8FPUt41YCFRDa_Sh1-UO5fW1j2m_TbR_LIf4dzfuRIqxvvW2=w2400?source=screenshot.guru"> <img src="https://lh3.googleusercontent.com/Qqbwn7_lTfQb7TV7qdDVxBodzlZA_d1dwnGTLSRpRzGXXDkXSGfoRSSj_MNMgoEXV2fEDqcVtKrfXS4PQhM7oc6T8FPUt41YCFRDa_Sh1-UO5fW1j2m_TbR_LIf4dzfuRIqxvvW2=w600-h315-p-k" /> </a>
 
 <p class=MsoNormal align=center style='text-align:center'><o:p>&nbsp;</o:p></p>
 
