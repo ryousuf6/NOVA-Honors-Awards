@@ -811,10 +811,14 @@ the 2020 Spring term:<span style='mso-no-proof:yes'> <o:p></o:p></span></p>
 <p class=MsoNormal align=center style='text-align:center'>NOVA Presidential
 Scholars' List for the 2020 Summer term:</p>
 
+<p class=MsoNormal align=center style='text-align:center'> <a href="https://lh3.googleusercontent.com/hdgdtBSoUdfsSyLFvBql9Zgm_ECbJfzcG0zM7JGTRggNhLaZ13OV3qFc5Qt0Gfa54s2EeYKqzoyIX8rRvzMvwPc28X0uLLCOjWlXJD3Hrl3cMawXoo2Wo-1MNl8OYp98nkuBRgy4=w2400?source=screenshot.guru"> <img src="https://lh3.googleusercontent.com/hdgdtBSoUdfsSyLFvBql9Zgm_ECbJfzcG0zM7JGTRggNhLaZ13OV3qFc5Qt0Gfa54s2EeYKqzoyIX8rRvzMvwPc28X0uLLCOjWlXJD3Hrl3cMawXoo2Wo-1MNl8OYp98nkuBRgy4=w600-h315-p-k" /> </a>
+
 <p class=MsoNormal align=center style='text-align:center'><o:p>&nbsp;</o:p></p>
 
 <p class=MsoNormal align=center style='text-align:center'>NOVA Dean's List for
 the 2020 Fall term:</p>
+
+<p class=MsoNormal align=center style='text-align:center'> <a href="https://lh3.googleusercontent.com/WjwTY1UzFLcmQ1RWw4EglUZTCV5CyVgmzsOfKgi09rqheuuyb5IwK5VJyiV91HYpL8lEmKoA1DwTvxPCcNa7B_w8pCSN21OADLPniPHoxmPvsHPZQXuPCymyyt0AvneNTz3-Qefq=w2400?source=screenshot.guru"> <img src="https://lh3.googleusercontent.com/WjwTY1UzFLcmQ1RWw4EglUZTCV5CyVgmzsOfKgi09rqheuuyb5IwK5VJyiV91HYpL8lEmKoA1DwTvxPCcNa7B_w8pCSN21OADLPniPHoxmPvsHPZQXuPCymyyt0AvneNTz3-Qefq=w600-h315-p-k" /> </a>
 
 <p class=MsoNormal align=center style='text-align:center'><o:p>&nbsp;</o:p></p>
 
