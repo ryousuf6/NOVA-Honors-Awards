@@ -792,7 +792,7 @@ div.WordSection1
 <div class=WordSection1>
 
 <h1 align=center style='margin-left:.5pt;text-align:center'><i><u>HONORS &amp;
-ACTIVITIES<o:p></o:p></u></i></h1>
+AWARDS<o:p></o:p></u></i></h1>
 
 <p class=MsoNormal><o:p>&nbsp;</o:p></p>
 
